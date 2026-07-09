@@ -41,40 +41,34 @@ I like to do cool stuff, and I don't have enough time for all of the things I wa
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=zeidalidiez&theme=transparent&hide_border=true" />
 </p>
 
-## Projects
+## Personal projects
 
-| Repo | Link |
-| --- | --- |
-| Notenotes | [Repo](https://github.com/zeidalidiez/Notenotes) / [Live](https://zeidalidiez.github.io/Notenotes/) |
-| ProjectPugxcel | [Repo](https://github.com/zeidalidiez/ProjectPugxcel) / [Live](https://zeidalidiez.github.io/ProjectPugxcel/) |
-| FreeLobby | [Repo](https://github.com/zeidalidiez/FreeLobby) / [Live](https://freelobby.zeiddiez.com) |
-| Project-Piggypaca | [Repo](https://github.com/zeidalidiez/Project-Piggypaca) |
-| AIFreeMind | [Repo](https://github.com/zeidalidiez/AIFreeMind) |
-| CommunityDash | [Repo](https://github.com/zeidalidiez/CommunityDash) / [Live](https://zeidalidiez.github.io/CommunityDash/) |
-| Reddit Focus Filter | [Repo](https://github.com/zeidalidiez/Reddit-Focus-Filter) |
-| PizzaDealers | [Repo](https://github.com/zeidalidiez/PizzaDealers) / [Live](https://zeidalidiez.github.io/PizzaDealers/) |
-| StructuredSlop | [Repo](https://github.com/zeidalidiez/StructuredSlop) |
+| Project | What it is | Links |
+| --- | --- | --- |
+| Notenotes | A local-first pre-DAW for sketching musical ideas before taking them into a full DAW, with scale-locked pads, controller input, snippets, canvas arrangement, inspect/edit tools, and offline storage. | [Repo](https://github.com/zeidalidiez/Notenotes) / [Live](https://zeidalidiez.github.io/Notenotes/) |
+| ProjectPugxcel | A UI-based fantasy space roguelike where the main loop is drafting through a procedural constellation skill tree, then passing or failing threshold checks between rounds. | [Repo](https://github.com/zeidalidiez/ProjectPugxcel) / [Live](https://zeidalidiez.github.io/ProjectPugxcel/) |
+| FreeLobby | A browser-based multiplayer hangout built around anonymous presence, mutual-consent identity reveal, private/common rooms, quiet mode, and one-click escape instead of global chat pressure. | [Repo](https://github.com/zeidalidiez/FreeLobby) / [Live](https://freelobby.zeiddiez.com) |
+| Project-Piggypaca | An educational Alpaca automation project focused on strict risk rules, a protected capital floor, paper trading first, bracket orders, audit logs, and scheduled or continuous operation. | [Repo](https://github.com/zeidalidiez/Project-Piggypaca) |
+| AIFreeMind | A proof-of-concept persistent memory architecture for AI agents, with memory-first retrieval, domain-tagged recall, crash recovery, safe local tools, and model routing through LiteLLM. | [Repo](https://github.com/zeidalidiez/AIFreeMind) |
+| CommunityDash | A local-first daily goal dashboard with configurable goals, retained history charts, shareable templates, JSON backup/import, and no account or backend. | [Repo](https://github.com/zeidalidiez/CommunityDash) / [Live](https://zeidalidiez.github.io/CommunityDash/) |
+| Reddit Focus Filter | A Manifest V3 browser extension that schedules Reddit blocking or read-only mode, stores settings locally, and targets desktop Chromium-family browsers plus Firefox. | [Repo](https://github.com/zeidalidiez/Reddit-Focus-Filter) |
+| PizzaDealers | A 30-day browser market sim inspired by Dope Wars, with deterministic 6-hour shared markets, neighborhood price differences, inventory limits, loans, events, and local leaderboards. | [Repo](https://github.com/zeidalidiez/PizzaDealers) / [Live](https://zeidalidiez.github.io/PizzaDealers/) |
+| StructuredSlop | No public README found. | [Repo](https://github.com/zeidalidiez/StructuredSlop) |
+
+## ZDOSS projects
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| HeroLink | A local bridge for AI clients to read, draft, validate, and safely apply RPG Maker MV/MZ project content through CLI, MCP, HTTP API, and an Electron desktop app. | [Repo](https://github.com/ZDOSS/HeroLink) |
+| Grillo Project Hub | A local-first project management suite with web/PWA and Tauri desktop shells, covering boards, backlog, docs, bug triage, roadmap, calendar, automation, import/export, and folder-backed storage. | [Repo](https://github.com/ZDOSS/Grillo-Project-Hub) / [Live](https://zdoss.github.io/Grillo-Project-Hub/) |
+| Placeholderer | A browser-first PWA and CLI for game placeholder asset generation, with a shared TypeScript core for schemas, validation, sanitization, and generation workflows. | [Repo](https://github.com/ZDOSS/Placeholderer) |
 
 ## ZDOSS contributions
 
-| Project | Link |
-| --- | --- |
-| Avanguardia | [Repo](https://github.com/ZDOSS/Avanguardia-Publica) / [Live](https://zdoss.github.io/Avanguardia-Publica/) |
-| PetGenesis | [Repo](https://github.com/ZDOSS/PetGenesis) |
-
-## Tech
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
-  <img alt="QA" src="https://img.shields.io/badge/QA%20%2F%20Testing-111827?style=for-the-badge" />
-  <img alt="Project management" src="https://img.shields.io/badge/Project%20Management-374151?style=for-the-badge" />
-</p>
+| Project | What it is | Links |
+| --- | --- | --- |
+| Avanguardia | A public political-data transparency tool that aggregates and displays public information about U.S. politicians through a Python ETL pipeline, Supabase, and a static Next.js frontend. | [Repo](https://github.com/ZDOSS/Avanguardia-Publica) / [Live](https://zdoss.github.io/Avanguardia-Publica/) |
+| PetGenesis | A Codex-compatible animated pet generator for solo or two-character pets, with duo staging, approval checkpoints, animation modes, packaging, and verification tooling. | [Repo](https://github.com/ZDOSS/PetGenesis) |
 
 ## Contact
 
@@ -82,5 +76,3 @@ I like to do cool stuff, and I don't have enough time for all of the things I wa
 - Dev.to: [dev.to/zeiddiez](https://dev.to/zeiddiez)
 - Ko-fi: [ko-fi.com/zeiddiez](https://ko-fi.com/zeiddiez)
 - Website: [zeiddiez.com](https://zeiddiez.com)
-
-<!-- Add LinkedIn here when you have the exact public profile URL. -->
