@@ -37,7 +37,6 @@ I like to do cool stuff, and I don't have enough time for all of the things I wa
 </p>
 
 <p>
-  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeidalidiez&theme=github_dark&utcOffset=-7" />
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=zeidalidiez&theme=transparent&hide_border=true" />
 </p>
 
