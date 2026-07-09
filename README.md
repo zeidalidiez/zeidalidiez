@@ -52,8 +52,7 @@ I like to do cool stuff, and I don't have enough time for all of the things I wa
 | AIFreeMind | A proof-of-concept persistent memory architecture for AI agents, with memory-first retrieval, domain-tagged recall, crash recovery, safe local tools, and model routing through LiteLLM. | [Repo](https://github.com/zeidalidiez/AIFreeMind) |
 | CommunityDash | A local-first daily goal dashboard with configurable goals, retained history charts, shareable templates, JSON backup/import, and no account or backend. | [Repo](https://github.com/zeidalidiez/CommunityDash) / [Live](https://zeidalidiez.github.io/CommunityDash/) |
 | Reddit Focus Filter | A Manifest V3 browser extension that schedules Reddit blocking or read-only mode, stores settings locally, and targets desktop Chromium-family browsers plus Firefox. | [Repo](https://github.com/zeidalidiez/Reddit-Focus-Filter) |
-| PizzaDealers | A 30-day browser market sim inspired by Dope Wars, with deterministic 6-hour shared markets, neighborhood price differences, inventory limits, loans, events, and local leaderboards. | [Repo](https://github.com/zeidalidiez/PizzaDealers) / [Live](https://zeidalidiez.github.io/PizzaDealers/) |
-| StructuredSlop | No public README found. | [Repo](https://github.com/zeidalidiez/StructuredSlop) |
+| PizzaDealers | A game built for a tutorial on how to make a simple game. A 30-day browser market sim inspired by Dope Wars, with deterministic 6-hour shared markets, neighborhood price differences, inventory limits, loans, events, and local leaderboards. | [Repo](https://github.com/zeidalidiez/PizzaDealers) / [Live](https://zeidalidiez.github.io/PizzaDealers/) |
 
 ## ZDOSS projects
 
