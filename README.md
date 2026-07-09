@@ -5,6 +5,21 @@ Bilingual software engineer with a background in project management, QA/testing,
 I like to do cool stuff, and I don't have enough time for all of the things I want to do.
 
 <p>
+  <a href="https://github.com/zeidalidiez">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-zeidalidiez-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://dev.to/zeiddiez">
+    <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-zeiddiez-0A0A0A?style=for-the-badge&logo=devdotto" />
+  </a>
+  <a href="https://ko-fi.com/zeiddiez">
+    <img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-zeiddiez-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
+  </a>
+  <a href="https://zeiddiez.com">
+    <img alt="Website" src="https://img.shields.io/badge/Website-zeiddiez.com-2563EB?style=for-the-badge" />
+  </a>
+</p>
+
+<p>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=zeidalidiez&style=for-the-badge&color=2563eb" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/zeidalidiez?style=for-the-badge&logo=github&label=Followers" />
   <img alt="Public repos" src="https://img.shields.io/badge/Public%20Repos-10-2563EB?style=for-the-badge&logo=github" />
@@ -13,33 +28,20 @@ I like to do cool stuff, and I don't have enough time for all of the things I wa
 ## Stats
 
 <p>
-  <img height="165" alt="Zeid's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zeidalidiez&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidalidiez&layout=compact&theme=transparent&hide_border=true" />
+  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeidalidiez&theme=github_dark" />
 </p>
 
 <p>
+  <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeidalidiez&theme=github_dark" />
+  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeidalidiez&theme=github_dark" />
+</p>
+
+<p>
+  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeidalidiez&theme=github_dark&utcOffset=-7" />
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=zeidalidiez&theme=transparent&hide_border=true" />
 </p>
 
 ## Projects
-
-<p>
-  <a href="https://github.com/zeidalidiez/Notenotes">
-    <img alt="Notenotes" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidalidiez&repo=Notenotes&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/zeidalidiez/ProjectPugxcel">
-    <img alt="ProjectPugxcel" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidalidiez&repo=ProjectPugxcel&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/zeidalidiez/FreeLobby">
-    <img alt="FreeLobby" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidalidiez&repo=FreeLobby&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/zeidalidiez/Project-Piggypaca">
-    <img alt="Project-Piggypaca" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidalidiez&repo=Project-Piggypaca&theme=transparent&hide_border=true" />
-  </a>
-</p>
 
 | Repo | Link |
 | --- | --- |
